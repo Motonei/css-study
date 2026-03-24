@@ -1,0 +1,48 @@
+.upper{
+    background-color: blueviolet;
+    color: white;
+    opacity: 0.8;
+
+
+}
+.upper a{
+    color: white;
+    text-decoration: none;
+}
+.upper .nav{
+    display: flex;
+    justify-content: space-between;
+}
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    gap: 20px;
+
+    
+
+}
+.upper .hero{
+    text-align: center;
+    padding: 50px 0;
+}
+button{
+    padding: 10px 20px;
+    color: white;
+    background-color: pink;
+    border-radius: 15px;
+    border: none;
+}
+.container{
+    background-image: url(jes.webp);
+}
+    
+
+
+
+
+
+
+
+
+    
